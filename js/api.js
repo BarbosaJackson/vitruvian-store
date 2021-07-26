@@ -23,6 +23,6 @@ function addBuy(nome, email, endereco, total) {
 		cart = [];
 	}
 	cart.push({'nome': nome, 'email': email, 'total':total, 'endereco': endereco});
-	storage.setItem(nome+'_'+email, JSON.stringify(cart));
+	storage.setItem(nome+'_'+email+'_'+endereco+'_'+`${total}`, JSON.stringify(cart));
 	storage.removeItem('cart');
 }
