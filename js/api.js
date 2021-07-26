@@ -15,3 +15,14 @@ function add_cart(id, name, price) {
 	cart.push({'id': id, 'name': name, 'price':price});
 	storage.setItem('cart', JSON.stringify(cart));
 }
+
+function addBuy(nome, email, endereco, total) {
+	const storage = localStorage;
+	let cart = JSON.parse(storage.getItem('compras'));
+	if(!cart) {
+		cart = [];
+	}
+	cart.push({'nome': nome, 'email': email, 'total':total, 'endereco': endereco});
+	storage.setItem(nome+'_'+email, JSON.stringify(cart));
+	storage.removeItem('cart');
+}

@@ -12,7 +12,7 @@ function createHomePage(data) {
             <div class="container">
                 <p><b>${data[idx].name}</b></p>
                 <p>R$ ${data[idx].price}</p>
-                <a href="https://barbosajackson.github.io/vitruvianStore/pages/cadeira1.html">ver mais</a> 
+                <a href="pages/cadeira${idx + 1}.html">ver mais</a> 
             </div>
         </div> 
         </div>

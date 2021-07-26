@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <link rel="stylesheet" href="../css/global.css">
+    <title>Vitruvian Store</title>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+	<script type="text/javascript" src="../js/api.js"></script>
+    <script src="../js/homepage.js"></script>
+    <script src="../js/total.js"></script>
+</head>
+<body>
+    <form>
+        <div class="form-group">
+            <div class="row">
+                <div class="col"></div>
+                <div class="col" id='precototal'>
+
+                </div>
+            </div>
+        <div class="row"><input id='nome' type="text" class="form-control" style="margin-left: 5%; margin-right:5%;;margin-top: 1%;;" placeholder="nome"></div>
+        <div class="row"><input id='email' type="text" class="form-control" style="margin-left: 5%; margin-right:5%;margin-top: 1%;" placeholder="email"></div>
+        <div class="row"><input type="text" class="form-control" style="margin-left: 5%; margin-right:5%;margin-top: 1%;" placeholder="endereço" id='endereco'></div>
+        <div class="row">
+            <div class="col"></div>
+            <div class="col"><button class="btn btn-primary" onclick="finalizar()">Enviar</button></div>
+            <div class="col"><a href="../index.html">voltar</a></div>
+        </div>
+    </div>
+    </form>
+</body>
+</html>
