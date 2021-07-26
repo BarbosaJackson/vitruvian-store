@@ -1,0 +1,40 @@
+{
+    "products":[
+       {
+          "id":1,
+          "name":"Cadeira Gamer PCTOP Racer Branco e Preto - 1006, Médio",
+          "type":"Cadeira",
+          "description":"A Cadeira Racer foi desenvolvida para que os usuários tenham uma experiência extremamente confortável, mesmo que precise utilizar por muitas horas seguidas, seja para jogar, trabalhar, assistir um filme ou série. Estofado e encosto para as costas ergonomicamente confortáveis e de alta qualidade/densidade. Couro PVC resistente e não desbota. ",
+          "price":1048.50,
+          "avaliable":true,
+          "imageURL":"https://i.postimg.cc/QNSMtzjZ/51-Tfw-DJ6sg-S-AC-SL1000.jpg"
+       },
+       {
+          "id":2,
+          "name":"Cadeira Gamer Black Hawk Preta Fortrek",
+          "type":"Cadeira",
+          "description":"A cadeira BLACK HAWK tem sua cobertura em poliuretano com detalhes em fibra de carbono. Sua costura remete aos famosos bancos dos carros esportivos enquanto você desfruta do prazer de jogar seus games favoritos. Um assento firme com um pequeno apoio para cabeça e almofada para as costas oferecem um conforto prolongado. Apoie seu antebraço no apoio ajustável bi-direcional que é perfeito para posicionar os cotovelos durante horas de jogabilidade. Com uma roda de 60mm de diâmetro construída em nylon garante liberdade para movimentar-se para todos os lados.",
+          "price":1428.90,
+          "avaliable":true,
+          "imageURL":"https://i.postimg.cc/5tFHQSnq/51-Ixvi-R4-LL-AC-SL1000.jpg"
+       },
+       {
+          "id":3,
+          "name":"Cadeira Gamer EC1, ThunderX3, 2019, Windows_XP, Preta",
+          "type":"Cadeira",
+          "description":"Modelo: EC1Marca: THUNDERX3A Cadeira EC1 Thunderx3 é construída com a tecnologia única AIR Tech, onde terá uma respirabilidade superior e um design ergonômico para longas jornadas/batalhas gamer. A EC1 apresenta um design esportivo, que elevará seu setup para um outro nível. Esta cadeira gamer possui braços almofadados, espuma de alta densidade para o máximo conforto do usuário.",
+          "price":1069.04,
+          "avaliable":true,
+          "imageURL":"https://i.postimg.cc/VLdzNL7X/41-BXWBX4-o-L-AC.jpg"
+       },
+       {
+          "id":4,
+          "name":"Cadeira Gamer Reclinavel PCTOP Strike pc6022 Preto Médio",
+          "type":"Cadeira",
+          "description":"A Cadeira PC6022 foi desenvolvida para que os usuários tenham uma experiência extremamente confortável, mesmo que precise utilizar por muitas horas seguidas, seja para jogar, trabalhar, assistir um filme ou série. Estofado e encosto para as costas ergonomicamente confortáveis e de alta qualidade/densidade. Especificações Técnicas: Modelo: PC6022 Tipo de cadeira: Gamer Cor da moldura: Preta Tipo de mecanismo: Borboleta Especificação de elevação de gás: 100 mm, preto Ângulo ajustável do encosto: 135 graus Apoio de braço: apoio de braço fixo Regulagem de altura: Sim Apoio de pés: NÃO Almofadas: Pescoço e lombar Dimensões da Cadeira: Altura do chão ao braço: 72cm Altura de assento ajustável: 28cm Altura da cadeira: 125cm Altura do encosto:82cm Largura do encosto: 53cm Largura do assento: 37cm Profundidade do assento: 52cm Capacidade de peso: Até 120 KGS",
+          "price":1199,
+          "avaliable":true,
+          "imageURL":"https://i.postimg.cc/DzKh5Q7c/41b-Dwns-XEYS-AC-SL1000.jpg"
+       }
+    ]
+ }
